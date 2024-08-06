@@ -6,6 +6,7 @@ See the publication for the previously developed R script (hereafter referred as
 Please read https://github.com/DorresteinLaboratory/Bioactive_Molecular_Networks to know the backgound of using this script.
 
 Example usage: python BMN_v1.2.py -f path_to_quant_activ.csv -n N -sn SN -t cor_threshold -p P_level -use_adjusted_p_value
+
 Run "python BMN_v1.2.py -h" in the terminal to find out more about the arguments.
 
 Main changes compared to BMN_v1.1.r:
