@@ -13,6 +13,9 @@ Run "python BMN_v1.2.py -h" in the terminal to find out more about the arguments
 
 Templates files are provided in main/C18-SPE template files/ and main/LH20-SPE template files/ to help readers understand the effects of the parameters better.
 
+## Important note
+With this script, one doesn't need to reset the index during data processing in MZmine.
+
 ## Changes
 Main changes compared to BMN_v1.1.r:
 1) subsampling. The chemical profile we create from column chromatography would have different degrees of overlapping depending on the elution conditions. Subsampling is conducted by the user-defined parameter, N, to have better correlation analysis. Considering that the actual overlapping degree is hard to be accurately estimated, three subsampling window lengths are included (N-1, N, N+1), giving three pre-lists that are used to produce a common list.
