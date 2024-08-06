@@ -17,4 +17,5 @@ Other small changes:
 2) user-defined significance level.
 
 A schematic workdlow of BMN_v1.2.py:
-![image](https://github.com/user-attachments/assets/67d1731e-b1b2-4da8-9db3-8e9ae27f7c4c)
+![image](https://github.com/user-attachments/assets/4dc3347c-fb2c-4533-97b0-375394342ac7)
+
