@@ -26,3 +26,5 @@ A schematic workdlow of BMN_v1.2.py:
 
 ![image](https://github.com/user-attachments/assets/4dc3347c-fb2c-4533-97b0-375394342ac7)
 
+## Contact
+Jianzhong Zhu, Department of Drug Design and Pharmacology, University of Copenhagen. E: hainu_carl88@163.com
