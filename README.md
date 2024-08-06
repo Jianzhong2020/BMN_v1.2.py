@@ -11,7 +11,7 @@ Example usage: python BMN_v1.2.py -f path_to_quant_activ.csv -n N -sn SN -t cor_
 
 Run "python BMN_v1.2.py -h" in the terminal to find out more about the arguments.
 
-Templates files are provided in main/C18-SPE template files and main/LH20-SPE template files to help readers understand the effects of the parameters better.
+Templates files are provided in main/C18-SPE template files/ and main/LH20-SPE template files/ to help readers understand the effects of the parameters better.
 
 ## Changes
 Main changes compared to BMN_v1.1.r:
